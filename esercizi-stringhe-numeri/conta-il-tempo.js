@@ -12,3 +12,7 @@
 
   http://www.imparareaprogrammare.it
 */
+var secondi = 1;
+var minuto = 60;
+var ora = minuto * secondi;
+console.log(ora);
